@@ -15,4 +15,3 @@ $_name;
 $name;
 // $familiya;
 $surname;
-
